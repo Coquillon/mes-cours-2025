@@ -39,7 +39,7 @@ Contenu :
 ---
 
 📄 Dernière modification
-Dernière mise à jour : `Modification notes.txt` Ajout du fichier powerpoint pour la présentation.
+Dernière mise à jour : `Modification Readme` Ajout du fichier powerpoint pour la présentation.
 
 
 
